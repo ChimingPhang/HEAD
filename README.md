@@ -200,7 +200,7 @@ pattern_recognition_1_about/" title="Pattern Recognition 1">
 
 - [All About Favicons (And Touch Icons)](https://bitsofco.de/all-about-favicons-and-touch-icons/)
 
-## Social
+## Social(然而这些网站并不能访问)
 
 ### OEmbed
 
